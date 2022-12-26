@@ -22,12 +22,7 @@ function App() {
       <Route  path='/adminlog' element={<AdminLog/>}></Route>
       <Route path='/popup' element={<Popup/>}></Route>
       </Routes>
-      </BrowserRouter>
-    
-      
-       
-      
-      
+      </BrowserRouter>  
     </div>
   );
   

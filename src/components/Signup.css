@@ -1,0 +1,21 @@
+/* .App {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image:  #B0C9EA;
+  }
+    .signup-form {
+    display: flex;
+    flex-direction: column;
+  } */
+  
+  .submit{
+    background-color:  #FDD496;
+    color: black;
+  }
+  input{
+    font-size: 20px;
+  }
